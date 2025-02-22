@@ -21,4 +21,29 @@
 
     <main>
         <section class="intro">
-            <h2>Your One
+            <h2>Your One-Stop Shop for Digital Products</h2>
+            <p>Explore a variety of digital products, including e-books, software, templates, and more.</p>
+        </section>
+
+        <section class="products">
+            <h2>Featured Products</h2>
+            <div class="product">
+                <h3>Product Name</h3>
+                <p>Description of the product.</p>
+                <button>Buy Now</button>
+            </div>
+            <div class="product">
+                <h3>Another Product</h3>
+                <p>Description of the product.</p>
+                <button>Buy Now</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Pistachio Nut Store. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
